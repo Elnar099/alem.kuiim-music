@@ -1,0 +1,52 @@
+.link {
+Position: absolute;
+Left: 465px;
+Top: 680px;
+color: azure;
+}
+.yvideo {
+    Position: absolute;
+    Left: 50px;
+    Top: 50px;
+    }
+    .audio{
+        Position: absolute;
+        Left: 625px;
+        Top: 657px;
+        }
+        .textt{
+            Position: absolute;
+            Left: 640px;
+            Top: 45px;
+            color: azure;
+            }
+            .textt2{
+                Position: absolute;
+                Left: 640px;
+                Top: 120px;
+                color: azure;
+                }
+                .textt3{
+                    Position: absolute;
+                    Left: 1150px;
+                    Top: 45px;
+                    color: azure;
+                    }
+                    .textt4{
+                        Position: absolute;
+                        Left: 1150px;
+                        Top: 120px;
+                        color: azure;
+                        }
+                        .avtor{
+                            Position: absolute;
+                            Left: 50px;
+                            Top: 965px;
+                            color: azure;
+                            }
+                            .alemkuiim2{
+                                Position: absolute;
+                                Left: 50px;
+                                Top: 50px;
+                                color: black;
+                                }
